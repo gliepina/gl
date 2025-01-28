@@ -1,0 +1,11 @@
+print("ievadiet virsotnes: ")
+ax = int(input())
+ay = int(input())
+bx = int(input())
+by = int(input())
+cx = int(input())
+cy = int(input())
+if ay==by:
+    print(ax,cy)
+if ax==bx:
+    print(cx,ay)
