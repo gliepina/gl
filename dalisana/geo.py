@@ -15,11 +15,11 @@ if ab>ac and ab>bc:
     isais2=bc
 
 elif bc>ac and bc>ab:
-    garkais=bc
+    garakais=bc
     isais1=ac
     isais2=ab
 
-if garais**2==isais1**2+isais2:
+if garakais**2==isais1**2+isais2:
     print("ir taisnleņķis")
 else:
     print("nav taisnleņķis")
